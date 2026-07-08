@@ -30,7 +30,49 @@ const watermarks = [
         name: "Popular WM 2",
         description: "Довольно известный водяной знак, голубой неон на чёрном фоне",
         author: "???"
-    }
+    },
+    {
+        id: 6,
+        name: "Neon WM 1",
+        description: "Неоновый водяной знак, жёлтый неон",
+        author: "???"
+    },
+    {
+        id: 7,
+        name: "Neon WM 2",
+        description: "Неоновый водяной знак идущий в разброс, синий неон",
+        author: "???"
+    },
+    {
+        id: 8,
+        name: "Neon WM 3",
+        description: "Неоновый капающий водяной знак, коричневый неон",
+        author: "???"
+    },
+    {
+        id: 9,
+        name: "Neon WM 4",
+        description: "Неоновый водяной знак, розовый неон",
+        author: "???"
+    },
+    {
+        id: 10,
+        name: "Neon WM 5",
+        description: "Неоновый водяной знак, зелёный неон",
+        author: "???"
+    },
+    {
+        id: 11,
+        name: "Neon WM 6",
+        description: "Неоновый водяной знак, крассный неон",
+        author: "???"
+    },
+    {
+        id: 12,
+        name: "Neon WM 7",
+        description: "Неоновый водяной знак, фиолетовый неон",
+        author: "???"
+    },
 ];
 
 // ========== ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ ==========
